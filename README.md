@@ -1,4 +1,4 @@
-# This shell is completely writeen in C. It has some in-built fxn and various user defines commands. It also supports redirection , piping and can run processes in both foregrounf and background.
+# This shell is completely written in C. It has some in-built fxn and various user defines commands. It also supports redirection , piping and can run processes in both foreground and background.
 
 # Usage
 To run the shell
